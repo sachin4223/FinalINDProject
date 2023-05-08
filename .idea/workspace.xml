@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="781b6cce-0ac6-464c-915f-150ed418d44d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EpamProject-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/src/main/java/com/browser/FactoryBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/src/main/java/org/example/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject1/src/test/java/org/example/LoginPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/src/test/java/org/example/Right_Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/src/test/java/org/example/With_Out_IDPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_project/src/test/java/org/example/Wrong_Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GoogleCloudObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PasteBinObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GoogleCloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PasteBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastCA_CA4/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/src/test/java/org/example/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/src/test/java/org/example/GetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredEpam/src/test/java/org/example/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGExample/src/test/java/FrameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGExample/src/test/java/org/example/CheckBoxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGExample/src/test/java/org/example/DropDownExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGExample/src/test/java/org/example/JSAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloci-master/Java/src/main/java/com/browser/FactoryBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloci-master/Java/src/test/java/com/github/vitalliuss/helloci/HurtMePlenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloci-master/Java/src/test/java/com/github/vitalliuss/helloci/Module3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PVSI9XPnrj5U1gqGIp2LOatdVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/sachin kumar/IdeaProjects/INDProject/testng.xml">
+    <configuration name="C:/Users/sachin kumar/IdeaProjects/INDProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="INDProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasteBin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="INDProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PasteBin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/sachin kumar/IdeaProjects/INDProject/testng.xml" />
+        <item itemvalue="TestNG.PasteBin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="781b6cce-0ac6-464c-915f-150ed418d44d" name="Changes" comment="" />
+      <created>1683540676638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683540676638</updated>
+    </task>
+    <servers />
+  </component>
+</project>
